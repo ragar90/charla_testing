@@ -4,6 +4,7 @@
   "description": "Charla de testing para interns de korinver",
   "main": "index.js",
   "scripts": {
+    "start": "node server.js",
     "test": "mocha ./spec/*"
   },
   "author": "",
